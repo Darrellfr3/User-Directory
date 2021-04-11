@@ -21,7 +21,7 @@ This application is intended to organize a companys employee registrar with simp
 ## Links
 
 * Project Repo: [Repository](https://github.com/Darrellfr3/User-Directory)
-* GitHub Page: [Website](https://jeishu.github.io/work-day-scheduler/)
+* GitHub Page: [Website](https://darrellfr3.github.io/User-Directory)
 
 ## Screenshots
 
